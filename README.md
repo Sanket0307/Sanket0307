@@ -15,13 +15,13 @@ I’m a curious learner and problem solver who enjoys turning ideas into useful 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python, C, Java, HTML, CSS, SQL  
+Python, C, HTML, CSS, SQL  
 
 **Libraries & Frameworks:**  
 TensorFlow, scikit-learn, OpenCV, NLTK, Flask, Streamlit, matplotlib, Pandas, NumPy, Transformers (Hugging Face)
 
 **Tools & Platforms:**  
-Jupyter Notebook, GitHub, Power BI, Tableau, Render, VS Code
+Jupyter Notebook, GitHub, Power BI, Tableau, VS Code
 
 ---
 
